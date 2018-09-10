@@ -1,0 +1,35 @@
+@media (max-width: 576px) {
+	.slider .carousel-inner .overlay h1 {
+		font-size: 25px;
+		text-align: center;
+		position: unset;
+		margin-top: 150px;
+	}
+
+	.overview p,
+	.featured-work p {
+		width: 100%;
+	}
+}
+
+@media (max-width: 768px) {
+	.latest-posts .card,
+	.pricing-table .card {
+		margin: 0 auto 30px;
+	}
+
+
+
+
+
+@media (min-width: 768px){}
+	.col-md-12 {
+    	padding-right: 0;
+}
+
+
+@media (max-width: 768px) {
+	.contact-us a {
+		margin-top: 120px;
+	}
+}
